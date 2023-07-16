@@ -34,6 +34,7 @@ After conducting the analysis, the following key findings have emerged:
 6. Tenure was grouped into 10s, with the 0-9 tenure category having the highest number of customers at 1,854 (931 retained and 923 churned). On the other hand, the 30-39 tenure category had the lowest number of customers, with 653 in total (144 churned and 509 retained).
 
 Based on these findings, it is evident that the available data is insufficient to determine the exact causes of customer churn. Further analysis and exploration are required to identify the potential factors contributing to churn in order to develop effective strategies for customer retention.
+
 ----
 # Recommendation
 Based on the findings from the analysis, the following recommendations can be made
