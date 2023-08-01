@@ -1,5 +1,6 @@
 # Telco Customer Churn Analysis 
-----
+![Telcom analysis](https://github.com/Jenonah/Telco-customer-churn-report/assets/138598218/54630d43-09e1-4f33-902c-5451bc3ef4f2)
+
 # Objectives
 To analyze customer churn, identify the factors contributing to churn, and explore potential strategies to reduce churn.
 
@@ -44,3 +45,4 @@ Based on the findings from the analysis, the following recommendations can be ma
 2. Service Enhancement: While 143 churned customers subscribed to only one category of service, this indicates a potential area for improvement. The Telco company should focus on enhancing the quality and value proposition of these specific services to increase customer satisfaction and reduce churn
 
 3. Further explore factors influencing customer churn: While the available data was insufficient to determine the exact causes of customer churn, it is crucial to conduct additional research, gather more customer feedback, and perform in-depth analysis to identify the underlying factors contributing to churn. This can involve qualitative surveys, customer interviews, and segmentation analysis to gain a deeper understanding of customer behavior, preferences, and pain points.
+
